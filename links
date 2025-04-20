@@ -1,0 +1,2 @@
+to view:http://localhost/sql_demo/products.php?id=1
+sql injection: http://localhost/sql_demo/products.php?id=1 OR 1=1
